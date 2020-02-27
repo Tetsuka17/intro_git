@@ -4,3 +4,4 @@ Try again!
 ・変更勉強
 ・変更勉強2
 ・現状変更 git status
+・git diff
